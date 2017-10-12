@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Sam Lerner
+Main-Class: SpotifyHelper
+
